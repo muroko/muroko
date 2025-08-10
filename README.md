@@ -80,9 +80,9 @@ Do you have a project in mind? Are you already working on a project and need hel
    <span>
        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muroko&show_icons=true&rank_icon=github&show=prs_merged&theme=gotham&count_private=true" />
    </span>
-   &emsp;&emsp;&emsp;&emsp;&emsp;
+   &emsp;&emsp;&emsp;&emsp;
    <span>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muroko&layout=compact&langs_count=12&card_width=380&theme=gotham" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muroko&layout=compact&langs_count=12&card_width=350&theme=gotham" />
    </span>
 </p>   
                                                                                                                                                                   

@@ -82,7 +82,7 @@ Do you have a project in mind? Are you already working on a project and need hel
    </span>
    &emsp;&emsp;&emsp;&emsp;
    <span>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muroko&layout=compact&langs_count=12&card_width=350&theme=gotham" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muroko&layout=compact&langs_count=12&card_width=350&theme=gotham&hide=shell" />
    </span>
 </p>   
                                                                                                                                                                   
